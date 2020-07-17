@@ -21,7 +21,5 @@
   <p align="center">
     <a href="https://twitter.com/beapen" alt="Twitter"><img src="https://github.com/dermatologist/imdhruv99/blob/master/readme/twitter.png"></a>
     <a href="https://www.linkedin.com/in/beapen/" alt="Linkedin"><img src="https://github.com/dermatologist/imdhruv99/blob/master/readme/linkedin.png"></a>
-  </p>
-  <small>Thanks [imdhruv99](https://github.com/imdhruv99/imdhruv99) for the template!</small>
-  
+  </p>  
 </p>

@@ -9,6 +9,7 @@
   * [goscar-export: OSCAR EMR EForm Export (csv) to FHIR](https://github.com/E-Health/goscar-export)
   * [DADPy: The swiss army knife for discharge abstract database!](https://github.com/E-Health/dadpy)
   * [QRMine: Qualitative Research support tools in Python](https://github.com/dermatologist/nlp-qrmine)
+  * [omopfhirmap: command-line tool for OMOP CDM <-> FHIR mapping](https://github.com/E-Health/omopfhirmap)
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true)
 </details>

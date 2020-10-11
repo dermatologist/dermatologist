@@ -6,6 +6,7 @@
   <summary>Recent Projects!</summary>
   <br>
   
+  * [NPM module to convert FHIR Questionnaire JSON to JSON Schema for form rendering](https://github.com/dermatologist/fhirformjs)
   * [goscar-export: OSCAR EMR EForm Export (csv) to FHIR](https://github.com/E-Health/goscar-export)
   * [DADPy: The swiss army knife for discharge abstract database!](https://github.com/E-Health/dadpy)
   * [QRMine: Qualitative Research support tools in Python](https://github.com/dermatologist/nlp-qrmine)

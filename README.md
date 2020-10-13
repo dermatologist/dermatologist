@@ -17,11 +17,7 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
- * [OHDSI OMOP to FHIR mapper](https://canehealth.com/2020/08/ohdsi-omop-to-fhir-mapper/) - posted on Wed Aug 12 2020 3:06 PM
- * [OHDSI OMOP CDM ETL Tools in Python, .Net and Go](https://canehealth.com/2020/08/ohdsi-omop-cdm-etl-tools-in-python-net-and-go/) - posted on Thu Aug 06 2020 2:56 PM
- * [Clinical Query Language – Part 1](https://nuchange.ca/2020/08/clinical-query-language-part-1.html) - posted on Wed Aug 05 2020 2:11 PM
- * [OHDSI OMOP to FHIR mapper](https://nuchange.ca/2020/07/ohdsi-omop-to-fhir-mapper.html) - posted on Wed Jul 22 2020 3:29 PM
- * [OHDSI OMOP CDM ETL Tools in Python, .Net and Go](https://nuchange.ca/2020/06/ohdsi-omop-cdm-etl-tools-in-python-net-and-go.html) - posted on Thu Jun 11 2020 3:43 PM<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 </details>
  
 

@@ -12,4 +12,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://nuchange.ca/feed,https://canehealth.com/feed"
-          template: "$newline * [$title]($url) - posted on $date "
+          max_post_count: 10
+          template: "$newline <h2 class='h2-blog'><a class='a-lightblue' href=$url>$title</a></h2>$newline <br>" 

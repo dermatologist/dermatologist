@@ -17,7 +17,26 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/08/ohdsi-omop-to-fhir-mapper/>OHDSI OMOP to FHIR mapper</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/08/ohdsi-omop-cdm-etl-tools-in-python-net-and-go/>OHDSI OMOP CDM ETL Tools in Python, .Net and Go</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/08/clinical-query-language-part-1.html>Clinical Query Language – Part 1</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/07/ohdsi-omop-to-fhir-mapper.html>OHDSI OMOP to FHIR mapper</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/06/ohdsi-omop-cdm-etl-tools-in-python-net-and-go.html>OHDSI OMOP CDM ETL Tools in Python, .Net and Go</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/06/dadpy-the-swiss-army-knife-for-discharge-abstract-database/>DADpy: The swiss army knife for discharge abstract database</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/05/oscar-emr-eform-export-csv-to-fhir/>OSCAR EMR EForm Export (CSV) to FHIR</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/05/oscar-emr-and-fhir/>OSCAR EMR and FHIR</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/04/fhir-and-public-health-data-warehouses.html>FHIR and public health data warehouses</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/04/umls-apis-for-clinical-vocabularies/>UMLS APIs for clinical vocabularies</a></h2>
+ <br><!-- BLOG-POST-LIST:END -->
 </details>
  
 

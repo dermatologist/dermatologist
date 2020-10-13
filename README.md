@@ -14,6 +14,10 @@
 
   ![](https://komarev.com/ghpvc/?username=dermatologist&style=flat-square&color=lightgray)
   ![My github stats](https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true)
+
+  <h2>Recent blog posts</h2>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </details>
  
 

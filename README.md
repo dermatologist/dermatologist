@@ -17,6 +17,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/10/rendering-fhir-questionnaire-for-data-capture.html>Rendering FHIR Questionnaire for data capture</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/08/ohdsi-omop-to-fhir-mapper/>OHDSI OMOP to FHIR mapper</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/08/ohdsi-omop-cdm-etl-tools-in-python-net-and-go/>OHDSI OMOP CDM ETL Tools in Python, .Net and Go</a></h2>
@@ -34,8 +36,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/05/oscar-emr-and-fhir/>OSCAR EMR and FHIR</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/04/fhir-and-public-health-data-warehouses.html>FHIR and public health data warehouses</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/04/umls-apis-for-clinical-vocabularies/>UMLS APIs for clinical vocabularies</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

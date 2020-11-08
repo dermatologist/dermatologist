@@ -6,6 +6,7 @@
   <summary>Recent Projects!</summary>
   <br>
   
+  * [kinmesh: A simple React component that uses the facemesh model from Tensorflowjs for facial cosmetic analysis](https://github.com/dermatologist/skinmesh). 
   * [NPM module to convert FHIR Questionnaire JSON to JSON Schema for form rendering](https://github.com/dermatologist/fhirformjs)
   * [goscar-export: OSCAR EMR EForm Export (csv) to FHIR](https://github.com/E-Health/goscar-export)
   * [DADPy: The swiss army knife for discharge abstract database!](https://github.com/E-Health/dadpy)

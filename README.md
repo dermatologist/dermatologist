@@ -15,7 +15,7 @@
 
   ![views](https://komarev.com/ghpvc/?username=dermatologist&style=flat-square&color=lightgray)
   ![My github stats](https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true&theme=tokyonight)
+  ![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dermatologist)
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->

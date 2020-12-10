@@ -18,25 +18,25 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/11/embeddings-in-healthcare-typingdna-and-skinmesh.html>Embeddings in healthcare: TypingDNA and Skinmesh</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/10/rendering-fhir-questionnaire-for-data-capture.html>Rendering FHIR Questionnaire for data capture</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/08/ohdsi-omop-to-fhir-mapper/>OHDSI OMOP to FHIR mapper</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/08/ohdsi-omop-cdm-etl-tools-in-python-net-and-go/>OHDSI OMOP CDM ETL Tools in Python, .Net and Go</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/08/clinical-query-language-part-1.html>Clinical Query Language – Part 1</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/07/ohdsi-omop-to-fhir-mapper.html>OHDSI OMOP to FHIR mapper</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/06/ohdsi-omop-cdm-etl-tools-in-python-net-and-go.html>OHDSI OMOP CDM ETL Tools in Python, .Net and Go</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/06/dadpy-the-swiss-army-knife-for-discharge-abstract-database/>DADpy: The swiss army knife for discharge abstract database</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/05/oscar-emr-eform-export-csv-to-fhir/>OSCAR EMR EForm Export (CSV) to FHIR</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/05/oscar-emr-and-fhir/>OSCAR EMR and FHIR</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/04/umls-apis-for-clinical-vocabularies/>UMLS APIs for clinical vocabularies</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/04/elasticsearch-for-analyzing-cord-19-dataset/>Elasticsearch for analyzing CORD-19 dataset</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/02/mcmaster-develops-tool-for-covid-19-battle/>McMaster develops tool for COVID-19 battle</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/02/public-health-data-warehouse-on-fhir/>Public Health Data Warehouse on FHIR</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2019/11/researchers-discover-new-toxin-that-impedes-bacterial-growth/>Researchers discover new toxin that impedes bacterial growth</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

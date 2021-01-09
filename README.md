@@ -14,8 +14,13 @@
   * [QRMine: Qualitative Research support tools in Python](https://github.com/dermatologist/nlp-qrmine)
   * [omopfhirmap: command-line tool for OMOP CDM <-> FHIR mapping](https://github.com/E-Health/omopfhirmap)
 
-  ![views](https://komarev.com/ghpvc/?username=dermatologist&style=flat-square&color=lightgray)
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true)
+  ![views](https://komarev.com/ghpvc/?username=dermatologist&style=flat-square&color=lightgray)<br>
+  <a href="https://github.com/dermatologist">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+  </a>
+  <a href="https://github.com/dermatologist">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dermatologist&langs_count=8&hide=html,css,erlang,cpp,objective-c" />
+  </a>
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->

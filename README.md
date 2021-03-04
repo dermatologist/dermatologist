@@ -24,6 +24,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/03/chatting-with-fhir-endpoint.html>Chatting with FHIR endpoint</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/11/embeddings-in-healthcare-typingdna-and-skinmesh.html>Embeddings in healthcare: TypingDNA and Skinmesh</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/10/rendering-fhir-questionnaire-for-data-capture.html>Rendering FHIR Questionnaire for data capture</a></h2>
@@ -41,8 +43,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/06/dadpy-the-swiss-army-knife-for-discharge-abstract-database/>DADpy: The swiss army knife for discharge abstract database</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/05/oscar-emr-eform-export-csv-to-fhir/>OSCAR EMR EForm Export (CSV) to FHIR</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/05/oscar-emr-and-fhir/>OSCAR EMR and FHIR</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

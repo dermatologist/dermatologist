@@ -24,6 +24,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/04/clinical-knowledge-representation-for-reuse.html>Clinical knowledge representation for reuse</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/03/covid-vaccination-tracking-with-blockchain.html>COVID vaccination tracking with blockchain</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/03/chatting-with-fhir-endpoint.html>Chatting with FHIR endpoint</a></h2>
@@ -41,8 +43,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/07/ohdsi-omop-to-fhir-mapper.html>OHDSI OMOP to FHIR mapper</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/06/ohdsi-omop-cdm-etl-tools-in-python-net-and-go.html>OHDSI OMOP CDM ETL Tools in Python, .Net and Go</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/06/dadpy-the-swiss-army-knife-for-discharge-abstract-database/>DADpy: The swiss army knife for discharge abstract database</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

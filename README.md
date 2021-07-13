@@ -9,12 +9,20 @@
   * [ckblib: Tools to create a clinical knowledge graph from biomedical literature](https://github.com/dermatologist/ckblib)
   * [Fhiry: FHIR -> pandas.dataframe for AI and ML](https://github.com/dermatologist/fhiry)
   * [Skinmesh: A simple React component that uses the facemesh model from Tensorflowjs for facial cosmetic analysis](https://github.com/dermatologist/skinmesh). 
-  * [NPM module to convert FHIR Questionnaire JSON to JSON Schema for form rendering](https://github.com/dermatologist/fhirformjs)
-  * [goscar-export: OSCAR EMR EForm Export (csv) to FHIR](https://github.com/E-Health/goscar-export)
-  * [DADPy: The swiss army knife for discharge abstract database!](https://github.com/E-Health/dadpy)
+  * [FHIRFormJS: NPM module to convert FHIR Questionnaire JSON to JSON Schema for form rendering](https://github.com/dermatologist/fhirformjs)
+  * [goscar-export: OSCAR EMR EForm Export (csv) to FHIR](https://github.com/dermatologist/goscar-export)
+  * [DADPy: The swiss army knife for discharge abstract database!](https://github.com/dermatologist/dadpy)
   * [QRMine: Qualitative Research support tools in Python](https://github.com/dermatologist/nlp-qrmine)
-  * [omopfhirmap: command-line tool for OMOP CDM <-> FHIR mapping](https://github.com/E-Health/omopfhirmap)
-
+  * [omopfhirmap: command-line tool for OMOP CDM <-> FHIR mapping](https://github.com/dermatologist/omopfhirmap)
+  
+  <br>
+  <h2>Issues that need help! 🧑‍🔧 </h2>
+  <br>
+  
+  * [Python - tox tests fail #83](https://github.com/dermatologist/nlp-qrmine/issues/83)
+  * [Tests fail on bumping spring-boot-starter-parent from 2.4.5 to 2.5.2 #10](https://github.com/dermatologist/omopfhirmap/issues/10)
+  * [Failed update hapi-fhir to > 5 #49](https://github.com/dermatologist/fhirql/issues/49)
+  
   ![views](https://komarev.com/ghpvc/?username=dermatologist&style=flat-square&color=lightgray)<br>
   <a href="https://github.com/dermatologist">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dermatologist&show_icons=true&count_private=true&hide=contribs&line_height=40" />

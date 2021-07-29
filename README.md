@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/07/open-source-for-healthcare.html>Open-source for healthcare</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2021/07/ai-will-never-replace-the-doctor-or-will-it/>AI will never replace the doctor. Or will it?</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2021/05/death-by-beep-bad-sound-design-costs-lives/>Death by beep? Bad sound design costs lives</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/08/ohdsi-omop-to-fhir-mapper/>OHDSI OMOP to FHIR mapper</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2020/08/ohdsi-omop-cdm-etl-tools-in-python-net-and-go/>OHDSI OMOP CDM ETL Tools in Python, .Net and Go</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/08/clinical-query-language-part-1.html>Clinical Query Language – Part 1</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

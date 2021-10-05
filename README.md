@@ -20,7 +20,6 @@
   <br>
   
   * [Python - tox tests fail #83](https://github.com/dermatologist/nlp-qrmine/issues/83)
-  * [Tests fail on bumping spring-boot-starter-parent from 2.4.5 to 2.5.2 #10](https://github.com/dermatologist/omopfhirmap/issues/10)
   * [Failed update hapi-fhir to > 5 #49](https://github.com/dermatologist/fhirql/issues/49)
   
   ![views](https://komarev.com/ghpvc/?username=dermatologist&style=flat-square&color=lightgray)<br>

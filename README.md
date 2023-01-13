@@ -19,7 +19,7 @@
   <h2>Issues that need help! 🧑‍🔧 </h2>
   <br>
   
-  * [Python - tox tests fail #83](https://github.com/dermatologist/nlp-qrmine/issues/83)
+  * [UMLSjs authentication method upgrade](https://github.com/dermatologist/umlsjs/issues/155)
   * [Failed update hapi-fhir to > 5 #49](https://github.com/dermatologist/fhirql/issues/49)
   
   ![views](https://komarev.com/ghpvc/?username=dermatologist&style=flat-square&color=lightgray)<br>

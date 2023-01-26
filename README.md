@@ -32,6 +32,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/01/kedro-multimodal-healthcare.html>Kedro for multimodal machine learning in healthcare</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2022/12/using-openfaas-containers-in-kubeflow.html>Using OpenFaaS containers in Kubeflow</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/11/six-things-data-scientists-in-healthcare-should-know.html>Six things data scientists in healthcare should know</a></h2>
@@ -49,8 +51,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/03/chatting-with-fhir-endpoint.html>Chatting with FHIR endpoint</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/11/embeddings-in-healthcare-typingdna-and-skinmesh.html>Embeddings in healthcare: TypingDNA and Skinmesh</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2020/10/rendering-fhir-questionnaire-for-data-capture.html>Rendering FHIR Questionnaire for data capture</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

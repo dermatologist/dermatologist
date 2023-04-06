@@ -6,19 +6,20 @@
   <summary>Recent Projects!</summary>
   <br>
   
-  * [ckblib: Tools to create a clinical knowledge graph from biomedical literature](https://github.com/dermatologist/ckblib)
+  * [Template for multi-modal machine learning in healthcare using Kedro](https://github.com/dermatologist/kedro-multimodal)
+  * [Collaboratively write journal papers or thesis in MS-Word and compile it to LaTeX using any template.](https://github.com/dermatologist/journal-paper-thesis-word-to-latex)
+  * [Pyomop - Python package for managing OHDSI clinical data models.](https://github.com/dermatologist/pyomop)
   * [Fhiry: FHIR -> pandas.dataframe for AI and ML](https://github.com/dermatologist/fhiry)
-  * [Skinmesh: A simple React component that uses the facemesh model from Tensorflowjs for facial cosmetic analysis](https://github.com/dermatologist/skinmesh). 
   * [FHIRFormJS: NPM module to convert FHIR Questionnaire JSON to JSON Schema for form rendering](https://github.com/dermatologist/fhirformjs)
-  * [goscar-export: OSCAR EMR EForm Export (csv) to FHIR](https://github.com/dermatologist/goscar-export)
-  * [DADPy: The swiss army knife for discharge abstract database!](https://github.com/dermatologist/dadpy)
   * [QRMine: Qualitative Research support tools in Python](https://github.com/dermatologist/nlp-qrmine)
   * [omopfhirmap: command-line tool for OMOP CDM <-> FHIR mapping](https://github.com/dermatologist/omopfhirmap)
+  * [ckblib: Tools to create a clinical knowledge graph from biomedical literature](https://github.com/dermatologist/ckblib)
   
   <br>
   <h2>Issues that need help! 🧑‍🔧 </h2>
   <br>
   
+  * [Support for LLM based FHIR flattening](https://github.com/dermatologist/fhiry/issues/122)
   * [UMLSjs authentication method upgrade](https://github.com/dermatologist/umlsjs/issues/155)
   * [Failed update hapi-fhir to > 5 #49](https://github.com/dermatologist/fhirql/issues/49)
   

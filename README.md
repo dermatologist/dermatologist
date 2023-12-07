@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/12/medprompt-how-to-architect-llm-solutions-for-healthcare.html>Medprompt: How to architect LLM solutions for healthcare.</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/09/named-entity-recognition-using-llms-a-ctakes-alternative.html>Named Entity Recognition using LLMs: a cTakes alternative?</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/08/distilling-llms-to-small-task-specific-models.html>Distilling LLMs to small task-specific models</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2021/05/death-by-beep-bad-sound-design-costs-lives/>Death by beep? Bad sound design costs lives</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/04/clinical-knowledge-representation-for-reuse.html>Clinical knowledge representation for reuse</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/03/covid-vaccination-tracking-with-blockchain.html>COVID vaccination tracking with blockchain</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

@@ -47,11 +47,11 @@
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/07/open-source-for-healthcare.html>Open-source for healthcare</a></h2>
  <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2021/07/ai-will-never-replace-the-doctor-or-will-it/>AI will never replace the doctor. Or will it?</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://canehealth.com/2021/05/death-by-beep-bad-sound-design-costs-lives/>Death by beep? Bad sound design costs lives</a></h2>
- <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/04/clinical-knowledge-representation-for-reuse.html>Clinical knowledge representation for reuse</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/03/covid-vaccination-tracking-with-blockchain.html>COVID vaccination tracking with blockchain</a></h2>
+ <br>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/03/chatting-with-fhir-endpoint.html>Chatting with FHIR endpoint</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

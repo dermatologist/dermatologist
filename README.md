@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/translational-research-in-digital-health-and-gen-ai.html>Translational Research in Digital Health and Gen AI</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/architecting-llm-solutions-for-healthcare-part-ii.html>Architecting LLM solutions for healthcare – Part II</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/navigating-the-complexities-of-gen-ai-in-medicine-5-development-blunders-to-avoid.html>Navigating the Complexities of Gen AI in Medicine: 5 Development Blunders to Avoid</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/11/six-things-data-scientists-in-healthcare-should-know.html>Six things data scientists in healthcare should know</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/07/open-source-for-healthcare.html>Open-source for healthcare</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/04/clinical-knowledge-representation-for-reuse.html>Clinical knowledge representation for reuse</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

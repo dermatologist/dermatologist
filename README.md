@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/05/grounding-vs-rag-in-healthcare-applications.html>Grounding vs RAG in Healthcare Applications</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/04/to-or-not-to-langchain.html>To or not to LangChain</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/translational-research-in-digital-health-and-gen-ai.html>Translational Research in Digital Health and Gen AI</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/01/kedro-multimodal-healthcare.html>Kedro for multimodal machine learning in healthcare</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2022/12/using-openfaas-containers-in-kubeflow.html>Using OpenFaaS containers in Kubeflow</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2021/11/six-things-data-scientists-in-healthcare-should-know.html>Six things data scientists in healthcare should know</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

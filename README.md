@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/06/come-join-us-to-make-generative-ai-in-healthcare-more-accessible.html>Come, join us to make generative AI in healthcare more accessible!</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/05/why-is-rag-not-suitable-for-all-generative-ai-applications-in-healthcare.html>Why is RAG not suitable for all Generative AI applications in healthcare?</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/05/grounding-vs-rag-in-healthcare-applications.html>Grounding vs RAG in Healthcare Applications</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/09/named-entity-recognition-using-llms-a-ctakes-alternative.html>Named Entity Recognition using LLMs: a cTakes alternative?</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/08/distilling-llms-to-small-task-specific-models.html>Distilling LLMs to small task-specific models</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/01/kedro-multimodal-healthcare.html>Kedro for multimodal machine learning in healthcare</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

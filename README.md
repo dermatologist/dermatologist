@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/07/locally-hosted-llms.html>Locally hosted LLMs</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/06/llm-in-the-loop-cql-execution.html>LLM-in-the Loop CQL execution</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/06/come-join-us-to-make-generative-ai-in-healthcare-more-accessible.html>Come, join us to make generative AI in healthcare more accessible!</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/navigating-the-complexities-of-gen-ai-in-medicine-5-development-blunders-to-avoid.html>Navigating the Complexities of Gen AI in Medicine: 5 Development Blunders to Avoid</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/12/medprompt-how-to-architect-llm-solutions-for-healthcare.html>Medprompt: How to architect LLM solutions for healthcare.</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2023/09/named-entity-recognition-using-llms-a-ctakes-alternative.html>Named Entity Recognition using LLMs: a cTakes alternative?</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

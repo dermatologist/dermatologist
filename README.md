@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/cql-to-elm-translator-api-with-springboot.html>CQL to ELM translator API with SpringBoot</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/11/loading-mimic-dataset-onto-a-fhir-server-in-two-easy-steps.html>Loading MIMIC dataset onto a FHIR server in two easy steps</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/11/rd-and-innovation-in-it-to-or-not-to-combine-both.html>R&amp;D and Innovation in IT; to or not to combine both</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/translational-research-in-digital-health-and-gen-ai.html>Translational Research in Digital Health and Gen AI</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/architecting-llm-solutions-for-healthcare-part-ii.html>Architecting LLM solutions for healthcare – Part II</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/navigating-the-complexities-of-gen-ai-in-medicine-5-development-blunders-to-avoid.html>Navigating the Complexities of Gen AI in Medicine: 5 Development Blunders to Avoid</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

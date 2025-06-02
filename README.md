@@ -33,9 +33,9 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/vsac-on-fhir.html>VSAC-on-FHIR</a></h2>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/vsac-on-fhir.html>II. VSAC-on-FHIR</a></h2>
  <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/cql-to-elm-translator-api-with-springboot.html>CQL to ELM translator API with SpringBoot</a></h2>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/cql-to-elm-translator-api-with-springboot.html>I. CQL to ELM translator API with SpringBoot</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/11/loading-mimic-dataset-onto-a-fhir-server-in-two-easy-steps.html>Loading MIMIC dataset onto a FHIR server in two easy steps</a></h2>
  <br>

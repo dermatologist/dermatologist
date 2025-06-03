@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/llm-in-the-loop-cql-execution-with-medpromptjs.html>III. MedPromptJS: Simplifying GenAI Application Development</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/vsac-on-fhir.html>II. VSAC-on-FHIR</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/cql-to-elm-translator-api-with-springboot.html>I. CQL to ELM translator API with SpringBoot</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/05/grounding-vs-rag-in-healthcare-applications.html>Grounding vs RAG in Healthcare Applications</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/04/to-or-not-to-langchain.html>To or not to LangChain</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/03/translational-research-in-digital-health-and-gen-ai.html>Translational Research in Digital Health and Gen AI</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

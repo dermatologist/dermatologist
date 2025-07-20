@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/07/building-a-modular-framework-for-generative-ai-in-healthcare.html>Building a Modular Framework for Generative AI in Healthcare</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/v-llm-in-the-loop-cql-execution-with-unstructured-data-and-fhir-terminology-support.html>V. LLM-in-the-Loop CQL execution with unstructured data and FHIR terminology support</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/iv-documentreference-hook-in-cql-execution.html>IV. DocumentReference hook in CQL execution</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/07/locally-hosted-llms.html>Locally hosted LLMs</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/06/come-join-us-to-make-generative-ai-in-healthcare-more-accessible.html>Come, join us to make generative AI in healthcare more accessible!</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/05/why-is-rag-not-suitable-for-all-generative-ai-applications-in-healthcare.html>Why is RAG not suitable for all Generative AI applications in healthcare?</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

@@ -33,6 +33,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/10/crisp-t-ai-assisted-qualitative-research.html>CRISP-T: Bridging Text, Numbers, and AI for Smarter Qualitative Research</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/08/vibe-coding-fhir-to-omop-cdm.html>Vibe Coding FHIR to OMOP</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/08/why-fhiry-matters.html>🔍 Why FHIRy Matters</a></h2>
@@ -50,8 +52,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/cql-to-elm-translator-api-with-springboot.html>I. CQL to ELM translator API with SpringBoot</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/11/loading-mimic-dataset-onto-a-fhir-server-in-two-easy-steps.html>Loading MIMIC dataset onto a FHIR server in two easy steps</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2024/11/rd-and-innovation-in-it-to-or-not-to-combine-both.html>R&amp;D and Innovation in IT; to or not to combine both</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
  

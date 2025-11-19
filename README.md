@@ -25,6 +25,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/11/are-we-trapped-in-a-matrixare-we-trapped-in-a-matrix.html>Are we trapped in a matrix?</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/11/design-science-research-in-healthca.html>Design Science Research in Healthcare: Bridging the Gap Between Ideas and Impact</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/10/vibe-coding-health-it.html>Four takeaways from vibe coding</a></h2>
@@ -42,8 +44,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/iv-documentreference-hook-in-cql-execution.html>IV. DocumentReference hook in CQL execution</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/llm-in-the-loop-cql-execution-with-medpromptjs.html>III. MedPromptJS: Simplifying GenAI Application Development</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/05/vsac-on-fhir.html>II. VSAC-on-FHIR</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
 

@@ -25,7 +25,7 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/11/are-we-trapped-in-a-matrixare-we-trapped-in-a-matrix.html>Are we trapped in a matrix?</a></h2>
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/11/are-we-trapped-in-a-matrix.html>Are we trapped in a matrix?</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/11/design-science-research-in-healthca.html>Design Science Research in Healthcare: Bridging the Gap Between Ideas and Impact</a></h2>
  <br>

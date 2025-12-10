@@ -25,6 +25,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/12/pragmatic-research-that-builds-and-travels.html>Pragmatic Research That Builds and Travels</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/11/are-we-trapped-in-a-matrix.html>Are we trapped in a matrix?</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/11/design-science-research-in-healthcare.html>Design Science Research in Healthcare: Bridging the Gap Between Ideas and Impact</a></h2>
@@ -42,8 +44,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/v-llm-in-the-loop-cql-execution-with-unstructured-data-and-fhir-terminology-support.html>V. LLM-in-the-Loop CQL execution with unstructured data and FHIR terminology support</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/iv-documentreference-hook-in-cql-execution.html>IV. DocumentReference hook in CQL execution</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/llm-in-the-loop-cql-execution-with-medpromptjs.html>III. MedPromptJS: Simplifying GenAI Application Development</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
 

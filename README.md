@@ -25,6 +25,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/01/why-dhti-chains-matter-moving-beyond-single-llm-calls-healthcare-ai.html>Why DHTI Chains Matter: Moving Beyond Single LLM Calls in Healthcare AI &lpar;Part II&rpar;</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/01/bringing-generative-ai-into-the-ehr-why-dhti-matter.html>Bringing Generative AI Into the EHR: Why DHTI Matter &lpar;Part I&rpar;</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/12/pragmatic-research-that-builds-and-travels.html>Pragmatic Research That Builds and Travels</a></h2>
@@ -42,8 +44,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/08/why-fhiry-matters.html>🔍 Why FHIRy Matters</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/07/building-a-modular-framework-for-generative-ai-in-healthcare.html>Building a Modular Framework for Generative AI in Healthcare</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/06/v-llm-in-the-loop-cql-execution-with-unstructured-data-and-fhir-terminology-support.html>V. LLM-in-the-Loop CQL execution with unstructured data and FHIR terminology support</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
 

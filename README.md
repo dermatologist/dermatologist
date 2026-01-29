@@ -25,6 +25,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/01/llms-agentic-patterns-and-practical-healthcare-why-tools-matter.html>LLMs, Agentic Patterns, and Practical Healthcare: Why Tools Matter &lpar;Part III&rpar;</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/01/why-dhti-chains-matter-moving-beyond-single-llm-calls-healthcare-ai.html>Why DHTI Chains Matter: Moving Beyond Single LLM Calls in Healthcare AI &lpar;Part II&rpar;</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/01/bringing-generative-ai-into-the-ehr-why-dhti-matter.html>Bringing Generative AI Into the EHR: Why DHTI Matter &lpar;Part I&rpar;</a></h2>
@@ -42,8 +44,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/08/vibe-coding-fhir-to-omop-cdm.html>Vibe Coding FHIR to OMOP</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/08/why-fhiry-matters.html>🔍 Why FHIRy Matters</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/07/building-a-modular-framework-for-generative-ai-in-healthcare.html>Building a Modular Framework for Generative AI in Healthcare</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
 

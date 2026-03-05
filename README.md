@@ -25,6 +25,8 @@
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/03/when-genai-ideas-translate-to-practice-with-dhti.html>When GenAI Ideas translate to practice with DHTI</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/02/how-dhti-makes-mcp-practical-through-docktor.html>How DHTI Makes MCP Practical for Healthcare Through “Docktor” &lpar;Part IV&rpar;</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/01/llms-agentic-patterns-and-practical-healthcare-why-tools-matter.html>LLMs, Agentic Patterns, and Practical Healthcare: Why Tools Matter &lpar;Part III&rpar;</a></h2>
@@ -42,8 +44,6 @@
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/10/vibe-coding-health-it.html>Four takeaways from vibe coding</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/10/crisp-t-ai-assisted-qualitative-research.html>CRISP-T: Bridging Text, Numbers, and AI for Smarter Qualitative Research</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/08/vibe-coding-fhir-to-omop-cdm.html>Vibe Coding FHIR to OMOP</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
 

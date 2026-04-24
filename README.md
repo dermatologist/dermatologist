@@ -1,4 +1,13 @@
-<img src="https://raw.githubusercontent.com/dermatologist/dermatologist/master/banner-bell-eapen.png" alt="Bell Eapen - Physician into machine learning and AI">
+Hi! 👋 I build **Digital Health systems** for healthcare and public health research — turning cutting‑edge science into tools that hospitals, pharma, and agencies can adopt.
+
+I design end‑to‑end platforms and developer tooling that bridge clinical data standards and generative AI. My work focuses on reliable data pipelines, domain‑aware models, and pragmatic integrations so research moves fast from notebook to bedside.
+
+**Signature projects**
+- **DHTI** 🔬 — a reference architecture and toolkit for safe, enterprise GenAI in healthcare; designed for easy experimentation while reducing the translational friction.  
+- **CRISP‑T** 🧭 — an AI‑assisted platform for qualitative research that helps teams extract rigorous, reproducible insights from clinical and social data.  
+- Supporting repos — FHIR/OHDSI tooling, data engineering utilities, and genomic tokenizers that make clinical ML practical and auditable.
+
+I build in the open and welcome collaborators, contributors, and product partners. If you want to help shape these projects, open an issue or PR; for commercial or deployment conversations, reach out via my profile contact.
 
 **Machine Learning** & **AI** on **FHIR**, **OSCAR**, **OpenMRS** & **OHDSI**
 

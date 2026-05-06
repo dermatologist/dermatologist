@@ -34,6 +34,8 @@ I build in the open and welcome collaborators, contributors, and product partner
 
   <h2>Recent blog posts</h2>
   <!-- BLOG-POST-LIST:START -->
+ <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/05/word-to-latex-how-paperajcli-bridges-two-academic-worlds.html>Word to LaTeX: How paperajcli Bridges Two Academic Worlds</a></h2>
+ <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/03/when-genai-ideas-translate-to-practice-with-dhti.html>When GenAI Ideas translate to practice with DHTI</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2026/02/how-dhti-makes-mcp-practical-through-docktor.html>How DHTI Makes MCP Practical for Healthcare Through “Docktor” &lpar;Part IV&rpar;</a></h2>
@@ -51,8 +53,6 @@ I build in the open and welcome collaborators, contributors, and product partner
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/11/design-science-research-in-healthcare.html>Design Science Research in Healthcare: Bridging the Gap Between Ideas and Impact</a></h2>
  <br>
  <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/10/vibe-coding-health-it.html>Four takeaways from vibe coding</a></h2>
- <br>
- <h2 class='h2-blog'><a class='a-lightblue' href=https://nuchange.ca/2025/10/crisp-t-ai-assisted-qualitative-research.html>CRISP-T: Bridging Text, Numbers, and AI for Smarter Qualitative Research</a></h2>
  <br><!-- BLOG-POST-LIST:END -->
 </details>
 
